@@ -1,6 +1,6 @@
 {
-  "name": "TG Rename Bot",
-  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
+  "name": "Rename-Telegram-Bot",
+  "description": "Telegram's best Open Source Rename Bot. This helps you rename the files and apply permanent titles. Make a copy of it and start coding your own bot.",
   "keywords": [
     "telegram",
     "best",
@@ -10,7 +10,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
+  "repository": "https://github.com/ALENTL/Rename-Telegram-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -34,7 +34,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 466337795"
+      "value": "1312054275 466337795"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
