@@ -1,4 +1,4 @@
-## Rename Bot - Clone of  [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Rename Bot -By ALEN TL [ALEN_TL] (https://github.com/ALENTL/)
 ---
 
 An Open Source Rename Telegram RoBot
