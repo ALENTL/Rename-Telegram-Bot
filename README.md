@@ -1,19 +1,23 @@
-## Rename Bot -By ALEN TL [ALEN_TL] (https://github.com/ALENTL/)
+## URL Uploader Bot
 ---
 
-An Open Source Rename Telegram RoBot
+An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
-**My Feature**:
+**My Features**:
 
-👉 Rename any Telegram Files with Custom Thumbnail Support
+👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+
+👉 Upload as file from any HTTP link
 
 ### Installation
 
 #### The Easy Way
 
-### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ALENTL/Rename-Telegram-Bot)
+
+**Message me on Telegram to help you create your bot** - 👉 (https://telegram.dog/ALEN_TL)
 
 #### The Hard Way
 
@@ -27,18 +31,14 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [FILM COMPANY CHANNEL](https://t.me/filmcompany_alen)
 * [FILM COMPANY GROUP](https://t.me/film_company_of_alen)
+* [FILM COMPANY CHANNEL](https://t.me/filmcompany_alen)
 
 ## Credits, and Thanks to
 
-* [ALEN TL](https://t.me/ALEN_TL) for his [Coding Skills](https://github.com/ALENTL/Rename-Telegram-Bot)
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) for his [AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [@ALEN_TL](https://telegram.dog/ALEN_TL) for his [Coding Skills](https://github.com/ALENTL/Rename-Telegram-Bot)
 
-- For FeedBack and Suggestions, please feel free to say in [@ALEN_TL](https://t.me/ALEN_TL)
+- For FeedBack and Suggestions, please feel free to say in [@ALEN_TL](https://telegram.dog/ALEN_TL)
 
 #### LICENSE
 - GPLv3
-
