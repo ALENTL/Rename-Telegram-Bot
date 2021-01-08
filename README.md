@@ -17,7 +17,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ALENTL/Rename-Telegram-Bot)
 
-**Message me on Telegram to help you create your bot** - 👉 (https://telegram.dog/ALEN_TL)
+**Message me on Telegram to help you create your bot** - 👉 https://telegram.dog/ALEN_TL
 
 #### The Hard Way
 
