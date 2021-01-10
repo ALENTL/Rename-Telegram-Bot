@@ -210,7 +210,7 @@ venv.bak/
 
 config.py
 
-# to store the downloaded files
+# to store the downloaded file(s)
 /DOWNLOADS
 *.session
 *.session*
